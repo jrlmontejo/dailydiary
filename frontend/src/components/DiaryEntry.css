@@ -1,0 +1,8 @@
+.DiaryEntry_moodButton {
+  cursor: pointer;
+}
+
+.DiaryEntry_moodSelector {
+  max-width: 200px;
+  padding: 6px 3px 3px;
+}

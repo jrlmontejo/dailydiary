@@ -1,0 +1,15 @@
+.MoodSelector {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.MoodSelector_option {
+  cursor: pointer;
+}
+.MoodSelector_option.selected {
+  opacity: 1;
+}
+.MoodSelector_option.unselected {
+  opacity: 0.5;
+}
