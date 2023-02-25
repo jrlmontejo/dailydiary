@@ -2,6 +2,8 @@
 
 A diary app for CRUD demonstration purposes, written in React, with FastAPI as the backend and Redis as the data store.
 
+<img src="./sc.png" width="280">
+
 ## Setup
 
 1. To run this project locally, install [Docker](https://docs.docker.com/get-docker/).
